@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../../../media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/distance_unit.v" \
+"../../../../../../../../../media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/fsm_controller.v" \
+"../../../../../../../../../media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/knn_top.v" \
+"../../../../../../../../../media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/topk_tracker.v" \
+"../../../../../../../../../media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

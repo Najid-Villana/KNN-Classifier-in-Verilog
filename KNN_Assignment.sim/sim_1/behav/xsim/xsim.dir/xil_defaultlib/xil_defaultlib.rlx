@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/najid/Documents/Vivado_Projects/KNN_Assignment/KNN_Assignment.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/distance_unit.v,1783930259,verilog,,/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/fsm_controller.v,,distance_unit,,,,,,,,
+/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/fsm_controller.v,1783930259,verilog,,/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/knn_top.v,,fsm_controller,,,,,,,,
+/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/knn_top.v,1783930259,verilog,,/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/topk_tracker.v,,knn_top,,,,,,,,
+/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/src/topk_tracker.v,1783930259,verilog,,/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/testbench.v,,topk_tracker,,,,,,,,
+/media/najid/BackUp/Training/Vivado Assignments/knn_verilog_assignment/testbench.v,1783930259,verilog,,,,testbench,,,,,,,,

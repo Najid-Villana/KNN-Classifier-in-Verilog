@@ -1,0 +1,5 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+WARNING: Too many words specified in data file neighbours.mem
+[PASS] Test 1: (x=12, y=11) -> class_out=0 (expected 0)
+[FAIL] Test 2: (x=205, y=198) -> class_out=0 (expected 1)
