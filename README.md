@@ -160,15 +160,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📷 Waveform
-
-> Place your uploaded waveform image inside the `images` folder and rename it as:
-
-```
-images/KNN_classifier.png
-```
-
-The README will automatically display it.
 
 
 ## 👨‍💻 Author
