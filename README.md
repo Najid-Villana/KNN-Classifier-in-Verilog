@@ -165,24 +165,11 @@ Through this project, I gained practical experience in:
 > Place your uploaded waveform image inside the `images` folder and rename it as:
 
 ```
-images/waveform.png
+images/KNN_classifier.png
 ```
 
 The README will automatically display it.
 
----
-
-## 🔮 Future Improvements
-
-- Support larger datasets
-- Configurable K value
-- Parallel distance computation
-- Manhattan and Minkowski distance metrics
-- FPGA implementation and timing optimization
-- UART interface for external inputs
-- Memory-based training dataset
-
----
 
 ## 👨‍💻 Author
 
@@ -197,8 +184,6 @@ Interests:
 - RTL Development
 - Computer Architecture
 
-GitHub: https://github.com/yourusername
 
----
 
 ## ⭐ If you found this project useful, consider giving it a star!
