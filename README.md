@@ -122,7 +122,7 @@ The waveform below shows successful operation of the KNN classifier.
 - Correct class prediction
 - Completion indicated by the `done` signal
 
-![Simulation Waveform](images/waveform.png)
+![Simulation Waveform](images/KNN_classifier.png)
 
 ---
 
