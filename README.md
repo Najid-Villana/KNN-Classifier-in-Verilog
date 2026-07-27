@@ -2,7 +2,7 @@
 
 A hardware implementation of the **K-Nearest Neighbors (KNN) Classification Algorithm** using **Verilog HDL**. This project demonstrates how the KNN algorithm can be implemented on digital hardware using a Finite State Machine (FSM), Euclidean distance calculation, and majority voting logic.
 
-> Developed as part of Digital IC / FPGA Design training using **Xilinx Vivado**. :contentReference[oaicite:0]{index=0}
+> Developed as part of Digital IC / FPGA Design training using **Xilinx Vivado**.
 
 ---
 
